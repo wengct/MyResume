@@ -94,7 +94,7 @@
 **個人專案 — 後台管理系統**
 - 功能包含：選單管理、權限管理、使用者管理、角色管理  
 - 支援架構：二層式 (Web <-> DB)、三層式 (Web <-> Service <-> DB)  
-- 資料庫：MSSQL，邏輯複雜處理採用預存程序  
+- 資料庫：SQL Server，邏輯複雜處理採用預存程序 / 函式 
 - ORM 框架：Entity Framework  
 - 前端框架：Bootstrap  
 - 平台轉換：完成 .NET Framework → .NET Core 遷移，提升系統效能並保持技術更新  
