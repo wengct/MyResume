@@ -1,6 +1,6 @@
 # 翁晨庭 Resume
 
-![個人照片](photo.jpg)
+<img src="photo.jpg" alt="個人照片" width="200" style="border-radius:10px;" />
 
 ---
 
